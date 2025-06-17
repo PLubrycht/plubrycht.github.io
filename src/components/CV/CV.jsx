@@ -35,15 +35,31 @@ const CV = () => {
       </section>
 
       <section>
-        <h2>04 SKILLS</h2>
-        <p>React, JavaScript, Webflow, CSS, Node.js, Git, Responsive Design</p>
-      </section>
+  <h2>Skills</h2>
+  <div className="skills-columns">
+    <ul>
+      <li>HTML & CSS</li>
+      <li>HTML5</li>
+      <li>JavaScript</li>
+      <li>React</li>
+    </ul>
+    <ul>
+      <li>Webflow</li>
+      <li>CSS/JS animations</li>
+      <li>Responsive Design</li>
+      <li>Git</li>
+    </ul>
+  </div>
+</section>
 
       <section>
-        <h2>05 COURSES</h2>
-        <p>Future Collars: JavaScript, React, HTML & CSS (2024)</p>
-      </section>
-
+  <h2>Courses</h2>
+  <ul className="courses-list">
+    <li>JavaScript – Future Collars, 2024</li>
+    <li>React – Future Collars, 2024</li>
+    <li>HTML & CSS – Future Collars, 2024</li>
+  </ul>
+</section>
       <section>
         <h2>06 LANGUAGES</h2>
         <p>Polish (native), English, Spanish, Italian</p>

@@ -3,7 +3,7 @@
   margin: auto;
   padding: 40px 20px;
   animation: fadeInUp 0.8s ease-out;
-  line-height: 1.6;
+  line-height: 1.8;
 }
 
 h1 {
@@ -36,6 +36,42 @@ ul {
 
 .cv-footer a:hover {
   text-decoration: underline;
+}
+/* Większy odstęp między nagłówkiem a tekstem */
+section {
+  margin-bottom: 2.5rem;
+}
+
+/* Podkreślenie nagłówków i bardziej nowoczesny wygląd */
+h2 {
+  font-size: 1.8rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #222;
+  border-bottom: 2px solid #007acc;
+  padding-bottom: 0.3rem;
+  font-weight: 600;
+}
+.skills-columns {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.skills-columns ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  flex: 1;
+}
+
+.courses-list {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  margin-top: 1rem;
+}
+
+.courses-list li {
+  margin-bottom: 0.5rem;
 }
 
 @keyframes fadeInUp {
