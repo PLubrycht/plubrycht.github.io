@@ -1,0 +1,50 @@
+.cv-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
+  animation: fadeInUp 0.8s ease-out;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.3rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  color: #333;
+}
+
+ul {
+  padding-left: 1rem;
+}
+
+.cv-footer {
+  margin-top: 3rem;
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+  text-align: center;
+}
+
+.cv-footer a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+.cv-footer a:hover {
+  text-decoration: underline;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
