@@ -13,16 +13,43 @@ const CV = () => {
       <section>
         <h2>01 PROFILE</h2>
         <p>
-          Front-end developer with experience in building modern, visually engaging websites for
-          the creative industry...
+          Front-end developer with experience in building modern, visually engaging websites for the
+creative industry. I specialize in React, JavaScript, HTML, CSS, and Webflow. I work closely
+with designers to deliver custom, responsive solutions, combining aesthetics and technical
+functionality. Proven track record in freelance projects, collaborative development, and
+technical support.
         </p>
       </section>
 
       <section>
         <h2>02 EMPLOYMENT HISTORY</h2>
         <ul>
-          <li><strong>2024 – Present:</strong> Front-end Developer at 3DFB</li>
-          <li><strong>2024 – Present:</strong> Web Developer at easevisuell.com</li>
+          <li><strong>2024 – Present: Front-end Developer at 3DFB</strong>
+          <ul>
+            <li>- Developed websites for the creative and fashion industries</li>
+            <li>- Used Webflow with custom JavaScript</li>
+            <li>- Collaborated with a UX/UI designer on interactive interfaces</li>
+            </ul>
+            </li>
+          <li><strong>2024 – Present: Web Developer at easevisuell.com</strong>
+          <ul>
+            <li>- Built and maintained the artist's portfolio website</li>
+            <li>- Used Webflow and custom scripts for animations and layout behavior</li>
+            <li>- Ongoing technical support and updates</li>
+          </ul>
+          </li>
+          <li><strong>2020 — 2022  Freight Forwarding Assistant at C.Hartwig Gdynia</strong>
+          <ul>
+            <li>- Managed customer communication and transport logistics
+              
+            </li>
+          </ul>
+          </li>
+          <li><strong>2016 — 2020 Intern at Coca-Cola HBC / VGL / C.Hartwig </strong>
+          <ul>
+            <li>- Logistics, warehouse coordination, and transport planning</li>
+          </ul>
+          </li>
         </ul>
       </section>
 
