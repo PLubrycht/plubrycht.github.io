@@ -6,6 +6,9 @@
 }
 
 .project {
+  display: flex;
+  flex-direction: column;
+  
   background: white;
   padding: 20px;
   margin-bottom: 1.5rem;
