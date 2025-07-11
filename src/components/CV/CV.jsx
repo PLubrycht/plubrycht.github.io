@@ -10,7 +10,7 @@ const CV = () => {
       <p>Front-end Developer | Gdynia, Poland</p>
       <p><a href="mailto:plubrycht@gmail.com">plubrycht@gmail.com</a> | +48 509 729 884</p> 
       <p>
-          🔗 <a href="https://github.com/PLubrycht" target="_blank" rel="noreferrer">GitHub</a>
+          🔗 <a href="https://github.com/PLubrycht" target="_blank" rel="noreferrer">GitHub  https://github.com/PLubrycht </a>
         </p>
         <p>
           📂 <Link to="/projects">See My Projects</Link>
@@ -95,7 +95,11 @@ technical support.
 </section>
       <section>
         <h2>06 LANGUAGES</h2>
-        <p>Polish (native), English, Spanish, Italian</p>
+        <p>Polish - Native </p>
+        <p>English - C2 </p>
+        <p>Spanish - A2 </p>
+        <p>Italian - A2 </p>
+        <p>Croatian - A2 </p>
       </section>
 
       <footer className="cv-footer">
