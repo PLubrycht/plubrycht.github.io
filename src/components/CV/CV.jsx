@@ -8,7 +8,13 @@ const CV = () => {
     <div className="cv-container">
       <h1>Paweł Lubrycht</h1>
       <p>Front-end Developer | Gdynia, Poland</p>
-      <p><a href="mailto:plubrycht@gmail.com">plubrycht@gmail.com</a> | +48 509 729 884</p>
+      <p><a href="mailto:plubrycht@gmail.com">plubrycht@gmail.com</a> | +48 509 729 884</p> 
+      <p>
+          🔗 <a href="https://github.com/PLubrycht" target="_blank" rel="noreferrer">GitHub</a>
+        </p>
+        <p>
+          📂 <Link to="/projects">See My Projects</Link>
+        </p>
 
       <section>
         <h2>01 PROFILE</h2>
